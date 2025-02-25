@@ -70,5 +70,28 @@ To run the fresh laravel project you should run this command: `php artisan serve
 # New branch 'features' is created.
 
 <p>
-When we create a new branch
+When we create a new branch, new branch autometically copy all things from parent branch.
 </p>
+
+```html
+<html>
+  <head>
+    <!--links-->
+  </head>
+  <body>
+    <!--content-->
+
+    <script scr=""></script>
+  </body>
+</html>
+```
+
+```css
+text-align: center;
+margin: 20px 0;
+padding: 10px;
+```
+
+```javascript
+console.log("This is javascript function");
+```
