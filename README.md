@@ -63,3 +63,12 @@ git push -u origin main
 ### Run a laravel project
 
 To run the fresh laravel project you should run this command: `php artisan serve`
+
+<hr> 
+<hr>
+
+# New branch 'features' is created.
+
+<p>
+When we create a new branch
+</p>
