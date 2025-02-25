@@ -36,12 +36,25 @@ Hello, I am Noyon Sarker. I am in my 4<sup>th</sup> semester. I have done my all
 
 <hr>
 
-### initialize git in a directory
+### Initialize git in a directory
 
-```
+```git
 git init
 git add .
+git commit -m "git initialized"
 ```
+
+Then create a remote repo in your github account. Config your git bash.
+
+### Connect and push your local directory to the remote
+
+```git
+git remote add origin https://github.com/noyon674/folder_name.git
+git branch -M main
+git push -u origin main
+```
+
+<hr>
 
 ### How to install a new laravel project
 
